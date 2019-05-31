@@ -1,2 +1,2 @@
 # subreddit-scraper
-Simple subreddit scraper using PRAW and Pandas.
+Simple Reddit subreddit scraper using PRAW and Pandas. 
